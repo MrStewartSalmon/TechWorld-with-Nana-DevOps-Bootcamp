@@ -1,5 +1,5 @@
 # TechWorld-with-Nana-DevOps-Bootcamp
-This project is a gateway for my notes, and exercises for Nana Janashia's [DevOps Bootcamp] (https://www.techworld-with-nana.com/devops-bootcamp). 
+This project is a gateway for my notes, and exercises for Nana Janashia's [DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp). 
 This bootcamp is comprises 16 modules:
 
 1. Overview and Intro to DevOps
