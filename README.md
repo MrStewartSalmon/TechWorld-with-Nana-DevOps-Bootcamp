@@ -8,9 +8,8 @@ This bootcamp is comprises 16 modules:
 4. Build & Package Manager Tools (Maven, Gradle)
 5. Cloud & IaaS
 6. Artifact Repository Manager (Nexus)
-7. Containers (Docker)
+7. Containers with Docker
 8. Build Automation with Jenkins (CI/CD)
-   Jenkins Shared Library
 9. AWS Services
 10. Container Orchestration with Kubernetes
 11. Kubernetes on AWS
