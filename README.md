@@ -1,7 +1,8 @@
 # TechWorld-with-Nana-DevOps-Bootcamp
 This project is a gateway for my notes, and exercises for Nana Janashia's DevOps Bootcamp. 
 This bootcamp is comprises 16 modules:
-Overview and Intro to DevOps
+
+1. Overview and Intro to DevOps
 Operating Systems & Linux Basics
 Version Control with Git
 Build & Package Manager Tools (Maven, Gradle)
