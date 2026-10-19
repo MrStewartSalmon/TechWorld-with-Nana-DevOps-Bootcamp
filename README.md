@@ -3,7 +3,7 @@ This project is a gateway for my notes, and exercises for Nana Janashia's [DevOp
 This bootcamp is comprises 16 modules:
 
 1. [Overview and Intro to DevOps](https://github.com/MrStewartSalmon/DevOps-Bootcamp01-Introduction-to-DevOps/tree/main)
-2. Operating Systems & Linux Basics
+2. [Operating Systems & Linux Basics](https://github.com/MrStewartSalmon/DevOps-Bootcamp02-Operating-Systems-Linux-Basics)
 3. Version Control with Git
 4. Build & Package Manager Tools (Maven, Gradle)
 5. Cloud & IaaS
